@@ -12,8 +12,8 @@ export const profile = {
   email: "your.email@example.com",
   resumeUrl: "/resume.pdf",
   socials: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
+    github: "https://github.com/susmitapaudell",
+    linkedin: "https://linkedin.com/in/susmita-paudell",
   },
 };
 
